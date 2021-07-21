@@ -2,7 +2,7 @@
 A relational database management system project using python and SQL to manage the details and records of the plasma donors and receivers.
 # Functions
 
-1.Add new donation
+1.Add new donation\n
 2.Add new donor information
 3.Add new Plasma
 4.Add new recipient
